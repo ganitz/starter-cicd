@@ -1,0 +1,4 @@
+$ git clone https://github.com/ganitz/starter-cicd.git
+$ cd starter-cicd
+$ npm init
+$ npm install --save react react-dom
